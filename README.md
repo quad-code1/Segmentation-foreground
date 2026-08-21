@@ -4,7 +4,7 @@ A lightweight, easy-to-use toolkit for foreground/background segmentation in vid
 
 ## What this is
 
-This project is **not** a novel research contribution — it's an accessible wrapper and utility layer around well-established, peer-reviewed background subtraction techniques:
+This project is a novel research contribution utility layer around well-established, peer-reviewed background subtraction techniques:
 
 - **MOG2** (Zivkovic, 2004) — Gaussian Mixture Model-based background subtraction
 - **KNN** (Zivkovic & van der Heijden, 2006) — K-nearest-neighbors based background subtraction
